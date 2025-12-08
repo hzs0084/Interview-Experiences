@@ -28,6 +28,7 @@ The format I aim to achieve:
 - Marmon Holdings Inc
 - Sailpoint
 - Dragos
+- Southwest Power Pool
 
 <!-- Add hyperlinks to the bullet points that refer back to the companies -->
 
@@ -41,7 +42,7 @@ The format I aim to achieve:
 
 ### Amazon
 
-- Security Internship
+- Security Engineer Internship
 
 ### Meta
 
@@ -57,11 +58,11 @@ The format I aim to achieve:
 
 ### Bureau Veritas 
 
-- Security Internship
+- Security Engineer Internship
 
 ### Global Payments
 
-- Cybersecurity Internship
+- Cybersecurity Analyst Internship
 
 ### InterContinental Exchange [ICE]
 
@@ -98,3 +99,8 @@ The format I aim to achieve:
 ### Dragos
 
 - Associate Consultant
+
+### Southwest Power Pool
+
+- [Cyber Security Internship](https://www.linkedin.com/jobs/view/summer-2026-it-cyber-security-internship-%E2%80%93-security-analyst%21-at-southwest-power-pool-4307006206/)
+
