@@ -50,7 +50,21 @@ The format I aim to achieve:
 
 ### Robinhood
 
-- Vulnerability Management Internship
+- [Vulnerability Management Internship](https://www.linkedin.com/jobs/view/vulnerability-management-intern-summer-2026-at-robinhood-4341954309/)
+
+Recruiter Screen:
+- Q: Tell me about yourself
+- Q: I’d love to understand more about why you’re interested in working at Robinhood and, more specifically, this particular role. So let’s start with: why Robinhood?
+- Q: Can you tell me about your experience in triaging vulnerabilities? How do you assess a vulnerability, and how do you prioritize between different vulnerabilities?
+- Q: Can you tell me about any software development experience you might have?
+- Q: Can you tell me about your experience with generative AI and agentic AI systems, if any?
+- Q: Can you share a time when the pace or the hours of the work you were doing were intense, and how that affected you?
+- Q: What do you think motivates you to go beyond what’s expected in your work?
+
+The next few questions were logistical questions
+
+
+
 
 ### Cox Enterprises
 
