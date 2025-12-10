@@ -84,7 +84,42 @@ The next few questions were logistical questions
 
 ### Barclays
 
-- Technology Analyst Graduate Program
+- [Technology Analyst Graduate Program](https://www.linkedin.com/jobs/view/technology-analyst-graduate-program-2026-wilmington-at-barclays-bank-us-4299599640/)
+
+Interview 1:
+
+- Q: Could you walk me through your recent experience and what you’re doing now?
+- Q: Can you go a bit deeper into your Security Research Intern experience at the university? What did you do, and how did it shape your knowledge?
+- Q: On your resume I see experience at Company A. That was an internship, but it looks like you did more than the bare minimum. Any experience you can share about working in an in-office culture—team size, collaboration, etc.?
+- Q: Tell me about a time when you had to deal constructively with someone’s mistake—or even your own. Maybe you were asked to take over, correct something, and do the right thing for the organization. How did you manage that?
+- Q: Have you been part of a group sport? Or do you prefer more individual activities?
+- Q: How would you coach or motivate a team member who isn’t pulling their weight and is impacting overall performance?
+- Q: In a group setting, imagine an unexpected issue arises that nobody anticipated, but it must be solved quickly. What approach would you take?
+- Q: In a group, do you prefer leading or following? There’s no right or wrong answer.
+- Q: You’ve applied for the Technology Analyst Program. What do you know about Barclays?
+
+
+Interview 2:
+- Q: Can you tell me about a time when you had to deal with a potential risk?
+- Q: Did you work with a team on this? And did you encounter any resistance when you raised the risk?
+- Q: What information did you seek to mitigate the risk?
+- Q: From a mitigation perspective, what steps did you take?
+- Q: What was the impact of your actions on others?
+- Q: How did you see the SQL queries for a third-party app, given you didn’t have the source code?
+- Q: Tell me about a time when you used a variety of information or data to decide a way forward. You had a problem—how did you use data or information from systems to decide what to do?
+- Q: How did your understanding of how others do this task help you? Did you work with others and learn from their viewpoints?
+- Q: How did you gather the data or information you worked on?
+- Q: Did you explore the impact your actions would have on others? How did you do that?
+- Q: Can you explain one more time how you separated and normalized the data so that only critical issues came through and false positives were filtered out?
+- Q: Any additional reflections on this experience?
+- Q: Did you have to understand the business side behind the data—what “critical” or “high” meant from a business perspective, not just technically?
+- Q: Let’s tie this more concretely to your CSV/data cleansing project. Data cleansing leads to data accuracy. How did you ensure accuracy? Did you talk to the business? How did you decide what to keep or remove?
+- Q: Can you describe a time when you used technology or a digital solution to improve the way you delivered a task or activity?
+- Q: Did you consider any alternative solutions?
+- Q: How did you encourage others to adopt this technology?
+- Q: Tell me about a time when you had to make a decision based on data analysis. How did you ensure the data was accurate, and what factors did you consider before making your final recommendation? If you don’t have a direct example, describe how you would approach it.
+- Q: You also did a data cleansing project with vulnerability CSVs. How did you use cleansing to ensure accuracy, in practice? Did you talk to the business?
+- Q: If you summarize the factors you considered before making your final recommendation on data accuracy in that project, what would they be?
 
 ### Los Alamos National Laboratory
 
