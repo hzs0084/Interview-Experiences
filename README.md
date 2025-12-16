@@ -70,6 +70,39 @@ The next few questions were logistical questions
 
 - Cybersecurity Internship
 
+Recruiter Screen:
+
+- Q: What is your cumulative GPA?
+- Q: Will you ever require sponsorship to work in the U.S.? (F1, OPT, CPT, H1B, etc.)
+- Q: What is your graduation date?
+- Q: Tell me a little bit about your education and work experience, and how you feel it’s preparing you for the cybersecurity internship.
+- Q: Tell me about a cybersecurity project that challenged you.
+What role did you play, and what did you take away from the experience?
+- Q: Describe a time you identified a security risk or process improvement opportunity.
+What steps did you take to address it?
+
+Panel Interview:
+
+- Q: I see that you performed SAST and scanning as part of the internship with the fintech company.
+Tell me about your role there, and especially a scenario where there was a vulnerability and you had to recognize the level of risk.
+How did you go about it in the context of that internship?
+- Q: In that scenario, was there a time you had to make the call or escalate to your manager, for example if something was scored as medium but you evaluated it differently?
+- Q: Just curious, you’re completing a second Master’s. What made you switch from a Master’s in IT to Cybersecurity? You’re highly educated, I will say.
+- Q: You’ve had real-world exposure from your fintech internship and you also teach at Auburn. Security has many subdomains — AppSec, cyber defense, GRC, etc.
+What would you say is your ideal subdomain right now?
+- Q: Is there an area of security you already know you don’t like or are less keen on?
+- Q: On your resume you mention contributing to a cloud-focused security research paper, and you said you were published.
+Can you tell us more about what that paper was on and what you learned?
+- Q: Given your background and education, what’s your approach to learning or getting up to speed on a new technology or topic you’re not familiar with?
+For example, AI changes daily. Are you more hands-on, more of a seminar person — how do you get comfortable in a new space?
+- Q: You did malware sandboxing at the AI & Cybersecurity Center at Auburn.
+Did you leverage AI there? Are you using AI agents in your common workflow?
+- Q: In cybersecurity you’re often in situations where there’s more to do than you can handle.
+Can you talk about a time you had more assignments/work than you could handle and how you approached it?
+- Q: Can you tell me about a time you made a mistake or decision that turned out wrong?
+What did you do to rectify or learn from it?
+
+
 ### Bureau Veritas 
 
 - Security Engineer Internship
@@ -78,9 +111,42 @@ The next few questions were logistical questions
 
 - Cybersecurity Analyst Internship
 
+Hiring Manager Interview:
+
+- Q: Tell me about yourself
+- Q: What is the CIA triad? Define each.
+- Q: Difference between TCP and UDP?
+- Q: Describe the standard cybersecurity incident response process.
+- Q: What is True Positive / False Positive / False Negative
+- Q: Do you have any experience with DLP tools?
+- Q: You’re handed a potentially malicious Windows binary. How do you analyze it?
+- Q: Aside from “ethical hacking,” what else do you do for the community?
+
+
 ### InterContinental Exchange [ICE]
 
 - Application Security Engineer 
+
+Recruiter Screen:
+
+- Q: Tell me what you’re currently up to and why you’re interested in this role.
+
+Hiring Manager Interview:
+
+- Q: Do you have any experience using AI in AppSec, e.g. auto-remediation, AI-based triage, etc.?
+- Q: Can you explain what a microservice architecture is?
+- Q: Are you familiar with authentication mechanisms like JWT and how they’re used?
+- Q: What are some vulnerabilities that can occur with JWTs?
+- Q: How should an application prevent JWT tampering?
+- Q: Let’s say a cloud security tool (e.g., IaC scan) flags some issues. A developer claims they’re false positives. How do you review and handle that?
+- Q: Do you have experience with CSPM tools like Wiz, Aqua, etc.?
+- Q: For a cloud account used by an application, what issues would you look for?
+- Q: How would you factor in whether an app is external (internet-exposed) versus internal?
+- Q: You list OWASP Top 10 experience. Can you name and explain two items?
+- Q: What programming languages do you have experience with?
+- Q: Any experience deploying apps to the cloud (AWS, GCP, etc.)?
+
+
 
 ### Barclays
 
@@ -137,6 +203,30 @@ Interview 2:
 
 - Security Engineer Internship
 
+Final CISO Round:
+
+- Q: What does it mean to assess an API?
+- Q: What did you actually find?
+- Q: What are you seeing as a technical advisor? Any interesting trends?
+- Q: What’s this IoT/cloud/edge research about?
+
+Third Round:
+
+- Q: Can you tell me about yourself?
+- Q: Can you tell me about your experience with automation?
+- Q: How did you conduct these vulnerability assessments?
+- Q: Favorite thing you found?
+- Q: How did you conduct code reviews and implemented security automation?
+- Q: Top programming languages?
+- Q: You list IR and malware analysis under security domains and can you share your experience with it
+
+Second Round:
+
+First Round:
+
+Recruiter Screen:
+
+
 ### Marmon Holdings Inc
 
 - Technology Internship
@@ -149,9 +239,26 @@ Interview 2:
 
 - Associate Consultant
 
+Recruiter Screen:
+
+- Q: Tell me your story. How did you get into cybersecurity? What motivated that career move?
+- Q: In the OT space, through your education, have you done any particular project or research effort in OT security?
+- Q: What’s next for you? What are you looking to do in the professional world?
+- Q: Are you able to work before your master’s is done? Is there a time commitment there on your degree?
+- Q: Tell me about your work eligibility for the US. Do you need sponsorship?
+
 ### Southwest Power Pool
 
 - [Cyber Security Internship](https://www.linkedin.com/jobs/view/summer-2026-it-cyber-security-internship-%E2%80%93-security-analyst%21-at-southwest-power-pool-4307006206/)
+
+- Q: Tell me about yourself, some of the project's you've been on, and expectations from us
+- Q: How did you hear about SPP
+- Q: You’ve done two internships. What are a couple things you liked about those?
+- Q: I saw CCDC on the list — you’ve played CCDC?
+- Q: How did you enjoy CCDC?
+- Q: What OS are you running on your personal computer?
+- Q: Talk about the project you most enjoyed working on or are most proud of — personal or school project.
+- Q: The Vulnerability Assessment Toolkit you wrote in Python to do HTTP/TLS checks and reporting. What kind of stuff are you checking for, and how does that tool work?
 
 ### Vulcan Materials
 
