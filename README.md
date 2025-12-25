@@ -235,6 +235,25 @@ Recruiter Screen:
 
 - DevOps Internship
 
+Hiring Manager:
+- Q: Tell me about yourself
+- Q: On your resume, you mention onboarding 54 APIs with standardized documentation. What exactly did you do?
+
+Panel Interviews:
+- Q: How did you decide on SailPoint for an internship?
+- Q: How did you decide on this career path? Whether computer science or cybersecurity?
+- Q: What’s your favorite class so far?
+- Q: What about extracurricular activities—sports, clubs, anything like that?
+- Q: What can you tell me about CI/CD or DevOps?
+- Q: What’s the toughest project you’ve worked on?
+- Q: Tell me about the SQL injection vulnerability and you found at LPL — how did you find it?
+- Q: You said you enhanced API security by onboarding 54 APIs. What does that mean?
+- Q: What’s the difference between macOS and Linux (in your opinion)?
+
+*Transitioned into coding round after*
+
+
+
 ### Dragos
 
 - Associate Consultant
