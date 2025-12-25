@@ -40,6 +40,23 @@ The format I aim to achieve:
 
 - Software Engineer - Security Internship
 
+First Interview:
+
+- Q: Tell me about yourself.
+- Q: Tell me about the project you worked on during your LPL internship.
+- Q: Coding Question – Given a bracket string, determine if it’s valid.
+
+
+Second Interview:
+- Q: Tell me about yourself
+- Q: Why Cybersecurity? Do you know what area you want to specialize in?
+- Q: Tell me about your internship at LPL Financial. What did you work on?
+- Q: How did you think about API security during the acquisition?
+- Q: Can you describe a vulnerability you found, like broken access control or SQL injection? How did you approach it?
+- Q: Tell me about a time you went above and beyond or took ownership.
+- Q: What’s the impact if a branch doesn’t scan or the pipeline fails?
+- Q: Coding Question: Given logs of function start/end events, compute the exclusive time of each function.
+
 ### Amazon
 
 - Security Engineer Internship
